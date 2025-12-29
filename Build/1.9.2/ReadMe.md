@@ -1,12 +1,12 @@
 This build was made using:
 
-* Microsoft Windows 10 Pro 22H2 Build 19045.6456.
-* CMake 4.1.2.
-* Microsoft Visual Studio Community 2022 (64-bit) Version 17.14.19.
+* Microsoft Windows 10 Pro 22H2 Build 19045.6691.
+* CMake 4.2.1.
+* Microsoft Visual Studio Community 2022 (64-bit) Version 17.14.23.
 
 Source codes: https://github.com/libgit2/libgit2  
 Performer: McArcher.  
-Day: 2025-10-29.  
+Day: 2025-12-29.  
 
 
 ## Integrity Meta Data

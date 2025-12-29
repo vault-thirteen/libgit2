@@ -1,6 +1,6 @@
-1711616 git2.dll
-1773568 git2.exe
-135185 git2.exp
+1712640 git2.dll
+1774592 git2.exe
+135187 git2.exp
 220240 git2.lib
 4305 include\git2\annotated_commit.h
 5455 include\git2\apply.h
@@ -94,6 +94,6 @@
 12869 include\git2\types.h
 2237 include\git2\version.h
 8652 include\git2\worktree.h
-1858 include\git2.h
-7415808 libgit2_tests.exe
-2668032 util_tests.exe
+1932 include\git2.h
+7417344 libgit2_tests.exe
+2679808 util_tests.exe

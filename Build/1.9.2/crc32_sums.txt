@@ -1,7 +1,7 @@
-CE490120 git2.dll
-F57813AE git2.exe
-5D5C833D git2.exp
-05A848BF git2.lib
+7ADDA0AF git2.dll
+465358DB git2.exe
+C287146D git2.exp
+7D0E730B git2.lib
 CC085A59 include\git2\annotated_commit.h
 2F1193C5 include\git2\apply.h
 57E2F6E9 include\git2\attr.h
@@ -92,8 +92,8 @@ BB40FF37 include\git2\trace.h
 C58914B1 include\git2\transport.h
 21E63FEF include\git2\tree.h
 6AF74877 include\git2\types.h
-7A48BC33 include\git2\version.h
+F972BDE0 include\git2\version.h
 19018FE2 include\git2\worktree.h
-AD63FE0D include\git2.h
-F8BB669F libgit2_tests.exe
-D07D8178 util_tests.exe
+5A31D9DA include\git2.h
+FA6A0738 libgit2_tests.exe
+7E713571 util_tests.exe
